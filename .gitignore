@@ -1,0 +1,4 @@
+.ipynb_*
+.devcontainer
+network/admin/*.ora
+instant_client_19_6.zip

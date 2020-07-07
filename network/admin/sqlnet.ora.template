@@ -1,0 +1,4 @@
+# sqlnet.ora
+# Place this file in the network/admin subdirectory or your
+# $ORACLE_HOME location.
+NAMES.DIRECTORY_PATH = (LDAP)

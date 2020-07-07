@@ -1,0 +1,15 @@
+bbprd = (DESCRIPTION=
+  (ADDRESS_LIST=
+    (ADDRESS=
+      (PROTOCOL=TCP)
+        (HOST=)
+          (PORT=1521)))
+    (CONNECT_DATA=(SERVICE_NAME=)))
+
+csprdptl = (DESCRIPTION=
+  (ADRESS_LIST=
+    (ADDRESS=
+      (PROTOCOL=TCP)
+        (HOST)=)
+          (PORT=1521)))
+      (CONNECT_DATA=(SERVICE_NAME=))

@@ -1,0 +1,3 @@
+DIRECTORY_SERVERS = ( )
+DEFAULT_ADMIN_CONTEXT = "cn=OracleContext,dc=cc,dc=ku,dc=edu"
+DIRECTORY_SERVER_TYPE = OID
