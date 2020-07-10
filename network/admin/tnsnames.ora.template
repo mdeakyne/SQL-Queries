@@ -6,7 +6,7 @@ bbprd = (DESCRIPTION=
           (PORT=1521)))
     (CONNECT_DATA=(SERVICE_NAME=)))
 
-csprdptl = (DESCRIPTION=
+sisprd = (DESCRIPTION=
   (ADRESS_LIST=
     (ADDRESS=
       (PROTOCOL=TCP)
