@@ -7,7 +7,7 @@ RUN apt update  \
 
 # Install any needed packages specified in code or requirements.txt
 RUN pip install -U pip
-RUN pip install records cx_Oracle bbrest tablib[pandas] python-dotenv pandas msal requests hvplot jupyterlab
+RUN pip install records cx_Oracle bbrest tablib[pandas] python-dotenv pandas msal requests hvplot jupyterlab bbrest
 # Copy the linux based oracle zip file into the container at /app
 COPY  instant_client_19_6.zip /
 # Unzip the linux based Oracle client into the container

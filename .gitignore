@@ -3,3 +3,5 @@
 .env
 network/admin/*.ora
 instant_client_19_6.zip
+*.xlsx
+Untitled*.ipynb
