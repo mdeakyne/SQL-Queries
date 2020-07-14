@@ -1,4 +1,4 @@
-.ipynb_*
+*.ipynb_checkpoints*
 .devcontainer
 .env
 network/admin/*.ora
